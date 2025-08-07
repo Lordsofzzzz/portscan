@@ -2,8 +2,6 @@ import socket
 import sys
 from datetime import datetime
 
-# --- Configuration ---
-# ANSI color codes for output
 GREEN = '\033[0;32m'
 RED = '\033[0;31m'
 YELLOW = '\033[0;33m'
